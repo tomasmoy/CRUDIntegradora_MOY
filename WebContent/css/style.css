@@ -1,0 +1,36 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: 'Mukta', sans-serif;
+}
+
+body{
+	background: linear-gradient(to right top, #9b83ae, #9177b2, #836db7, #7063bc, #565bc2) no-repeat fixed;
+	height: 100%;
+}
+
+.nav.container-fluid{
+	display: flex;
+	justify-content: space-between;
+	align-items:center;
+	padding: 8px 5px 8px 60px;
+}
+
+.nav.container-fluid h2{
+	margin: auto;
+}
+
+h2{
+	color:black;
+	font-weight: bold;
+}
+
+.tabla{
+	margin: 5%;
+}
+
+table, th, td{
+	text-align:	center;
+	border: 1px solid black;
+}
+

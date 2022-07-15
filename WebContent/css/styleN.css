@@ -1,0 +1,20 @@
+body{
+	background: linear-gradient(to right top, #9b83ae, #9177b2, #836db7, #7063bc, #565bc2) no-repeat fixed;
+	height: 100%;
+}
+
+#insertardato{
+	padding-left:50px;
+	padding-right:50px;
+}
+
+.formulario{
+	padding: 15px !important;
+	margin-left: 20% !important;
+	margin-right: 20% !important;
+	font-weight: bold;
+}
+
+.socio h1{
+	margin-left: 22% !important;
+}
